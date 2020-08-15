@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VR-Question-School/static/css/main.69eda509.chunk.css",
+    "main.js": "/VR-Question-School/static/js/main.667c4431.chunk.js",
+    "main.js.map": "/VR-Question-School/static/js/main.667c4431.chunk.js.map",
+    "runtime-main.js": "/VR-Question-School/static/js/runtime-main.45861ded.js",
+    "runtime-main.js.map": "/VR-Question-School/static/js/runtime-main.45861ded.js.map",
+    "static/js/2.93133dd0.chunk.js": "/VR-Question-School/static/js/2.93133dd0.chunk.js",
+    "static/js/2.93133dd0.chunk.js.map": "/VR-Question-School/static/js/2.93133dd0.chunk.js.map",
+    "index.html": "/VR-Question-School/index.html",
+    "precache-manifest.6f846a1c5ba5c51a90bb433c55cb3914.js": "/VR-Question-School/precache-manifest.6f846a1c5ba5c51a90bb433c55cb3914.js",
+    "service-worker.js": "/VR-Question-School/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/VR-Question-School/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.93133dd0.chunk.js.LICENSE.txt": "/VR-Question-School/static/js/2.93133dd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45861ded.js",
+    "static/js/2.93133dd0.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.667c4431.chunk.js"
+  ]
+}
